@@ -1,6 +1,6 @@
 #! /bin/sh
 
-curl -L -O jboss-eap-6.4.0.zip https://access.cdn.redhat.com/content/origin/files/sha256/27/27a6fd62a8bc4f660970ab282a4bc013934275e47a850a974db6c7d2c62cc50e/jboss-eap-6.4.0.zip?_auth_=1530776720_21f28034f0a6acb0de6d728f7121b48f 
+curl -L -o jboss-eap-6.4.0.zip https://access.cdn.redhat.com/content/origin/files/sha256/27/27a6fd62a8bc4f660970ab282a4bc013934275e47a850a974db6c7d2c62cc50e/jboss-eap-6.4.0.zip?_auth_=1530776720_21f28034f0a6acb0de6d728f7121b48f 
 #git clone https://github.com/EdwinPhilip/jboss_zip.git
 echo "Installation........................"
 mkdir EAP_6.4
